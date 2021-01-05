@@ -1,0 +1,125 @@
+@media(min-width:575px){
+    .banner ul{
+        width: 80%;
+        margin: auto;
+    }
+   
+}
+@media(max-width:1199px){
+    .edit {
+        top: 51%;
+    }
+    .top-header ul {
+        justify-content: space-between!important;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+}
+@media(max-width:991px){
+    .mb-hide{
+        display: none;
+    }
+    .mb-show{
+        display: inline-block;
+    }
+    .edit {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        top: 36%;
+    }
+    .top-header ul {
+        padding: 0px 2px;
+    }
+}
+@media(max-width:767px){
+    .marg{
+        margin-bottom: 30px;
+    }
+    .sell-img{
+        display: none;
+    }
+    .top-right {
+        top: -10%;
+        right: 27%;
+    }
+    .right {
+        right: 10%;
+    }
+    .bottom-right {
+        right: 27%;
+    }
+    .bottom-left {
+        left: 33%;
+    }
+    
+    .lock {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    } 
+    .lock-top-right {
+
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .lock-left {
+
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .lock-bottom-left {
+
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .lock-right {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;   
+    }
+    .edit {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        top: 69%;
+    }
+    .first ul li {
+        margin-right: 20px;
+    }
+    .footer-bottom ul li {
+        font-size: 12px;
+    }
+}
+@media(max-width:575px){
+.text{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.auto{
+    margin:auto;
+}
+.banner h1{
+    font-size: 40px;
+}
+.banner ul li h5{
+    font-size: 18px;
+}
+.banner ul li h6{
+    font-size: 14px;
+}
+.marg{
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+}
